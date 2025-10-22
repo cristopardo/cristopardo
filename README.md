@@ -23,8 +23,6 @@
   </a>
 </p>
 
-> **Multicloud Data Engineer |** I design and build scalable data pipelines across **AWS, Azure & GCP** to optimize data flow, reduce costs, and maximize business value.
-
 ---
 
 ### 📈 GitHub stats
