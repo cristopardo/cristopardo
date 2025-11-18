@@ -2,7 +2,7 @@
 
 <h1 align="center">Cristhian José Pardo Mercado</h1>
 <p align="center">
-  <b>Multicloud Data Engineer</b>
+  <b>Multicloud Data/AI Engineer</b>
 </p>
 
 <p align="center">
